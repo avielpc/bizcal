@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="BIZCLICK">
+  <rect width="64" height="64" rx="16" fill="#0E5F63"/>
+  <rect x="12" y="15" width="40" height="36" rx="8" fill="#FFFFFF"/>
+  <rect x="12" y="15" width="40" height="11" rx="8" fill="#BFE0DD"/>
+  <rect x="12" y="21" width="40" height="5" fill="#BFE0DD"/>
+  <rect x="21" y="10" width="5" height="11" rx="2.5" fill="#FFFFFF" stroke="#0E5F63" stroke-width="2"/>
+  <rect x="38" y="10" width="5" height="11" rx="2.5" fill="#FFFFFF" stroke="#0E5F63" stroke-width="2"/>
+  <path d="M22.5 38.5 29 45l13-14" fill="none" stroke="#FF7A1F" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
